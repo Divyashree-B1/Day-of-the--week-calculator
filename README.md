@@ -14,7 +14,7 @@ It helps users quickly find out whether a specific date falls on Monday, Tuesday
 ## Technologies Used
 - Python
 - Tkinter – Built-in Python library for creating GUI (Graphical User Interface)
-- Built-in 'datetime' module
+- Built-in 'datetime' module.
 
 
 
